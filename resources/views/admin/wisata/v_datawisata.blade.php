@@ -1,0 +1,1 @@
+<h1>ini halaman data wisata</h1>
